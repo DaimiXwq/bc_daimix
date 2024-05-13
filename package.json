@@ -1,0 +1,24 @@
+{
+  "name": "bc_zhukov",
+  "version": "1.0.0",
+  "description": "back-end part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaimiXwq/bc_zhukov.git"
+  },
+  "author": "DaimiX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaimiXwq/bc_zhukov/issues"
+  },
+  "homepage": "https://github.com/DaimiXwq/bc_zhukov#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
+  }
+}
